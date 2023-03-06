@@ -8,13 +8,14 @@ export default function About() {
       style={{
         backgroundImage: `url(${background})`,
         backgroundRepeat: "no-repeat",
-        backgroundSize: "cover"
+        backgroundSize: "cover",
+        tintColor: "rgba(0,0,0,0.9)",
       }}
       id="about"
     >
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-6xl text-3xl mb-4 font-medium text-white">
+        <div className="lg:flex-grow md:w-3/4 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <h1 className="title-font sm:text-6xl text-6xl mb-4 font-medium text-white">
             Rey & Sons Electric
             <br className="hidden lg:inline-block" />
           </h1>
@@ -22,7 +23,18 @@ export default function About() {
             Greetings, I am currently looking for an Internship or Entry Level
             Front-End Web Developer role. I completed a Full Stack Web Developer
             Bootcamp at UTSA in January 2022. You are welcome to contact me if
-            you have any further questions. <br></br>
+            you have any further questions. Greetings, I am currently looking
+            for an Internship or Entry Level Front-End Web Developer role. I
+            completed a Full Stack Web Developer Bootcamp at UTSA in January
+            2022. You are welcome to contact me if you have any further
+            questions.Greetings, I am currently looking for an Internship or
+            Entry Level Front-End Web Developer role. I completed a Full Stack
+            Web Developer Bootcamp at UTSA in January 2022. You are welcome to
+            contact me if you have any further questions.Greetings, I am
+            currently looking for an Internship or Entry Level Front-End Web
+            Developer role. I completed a Full Stack Web Developer Bootcamp at
+            UTSA in January 2022. You are welcome to contact me if you have any
+            further questions. <br></br>
             Thank You
           </p>
           <div className="flex justify-center">
@@ -41,11 +53,7 @@ export default function About() {
           </div>
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt=""
-            src="/icons8.png"
-          />
+          <img className="object-cover object-center rounded" alt="" src="" />
         </div>
       </div>
     </section>
