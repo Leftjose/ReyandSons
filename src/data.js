@@ -51,13 +51,13 @@ export const testimonials = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "React.js",
-  "Next.js",
-  "Node",
-  "Bootstrap",
-  "Git Bash",
-  "Github",
-  "Heroku",
-  "Netlify",
+  "Residential Electrical Services",
+  "Main Panel Upgrades",
+  "Residential EV Chargers",
+  "Electrical Wiring",
+  "Electrical Outlets",
+  "Smart Light Swith Upgrades",
+  "Ceiling Fan Installations",
+  "Home Outdoor Lighting ",
+  "Smart Home Dooor Bells",
 ];
