@@ -22,7 +22,11 @@ export default function Contact() {
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", name, email, message }),
     })
-      .then(() => alert("Thank You for Contacting Rey & Sons, one of our representatives will contact you shortly."))
+      .then(() =>
+        alert(
+          "Thank You for Contacting Rey & Sons, one of our representatives will contact you shortly."
+        )
+      )
       .catch((error) => alert(error));
   }
 
@@ -46,7 +50,9 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 Location
               </h2>
-              <p className="mt-1 text-indigo-400">San Antonio, Austin & Surrounding Areas, TX</p>
+              <p className="mt-1 text-indigo-400">
+                San Antonio, Austin & Surrounding Areas, TX
+              </p>
             </div>
             <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
@@ -58,7 +64,9 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 PHONE (Call/SMS)
               </h2>
-              <p className="leading-relaxed text-indigo-400">(210) 430 - 9818 </p>
+              <p className="leading-relaxed text-indigo-400">
+                (210) 430 - 9818{" "}
+              </p>
             </div>
           </div>
         </div>
@@ -68,12 +76,12 @@ export default function Contact() {
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
         >
-          <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
+          <h2 className="text-black sm:text-4xl text-3xl mb-1 font-medium title-font">
             Contact Us
           </h2>
           <p className="leading-relaxed mb-5">
             Should you need any further information, please do not hesitate to
-            contact us. 
+            contact us.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -86,11 +94,7 @@ export default function Contact() {
               className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               onChange={(e) => setName(e.target.value)}
             />
-            
           </div>
-
-        
-
 
           <div className="relative mb-4">
             <label htmlFor="email" className="leading-7 text-sm text-gray-400">
@@ -104,7 +108,7 @@ export default function Contact() {
               onChange={(e) => setEmail(e.target.value)}
             />
           </div>
-         
+
           <div className="relative mb-4">
             <label
               htmlFor="message"
