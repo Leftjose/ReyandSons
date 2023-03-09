@@ -20,7 +20,7 @@ export default function Contact() {
     fetch("/", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: encode({ "form-name": "contact", name, email, message }),
+      body: encode({ "form-name": "contact", name, email, message}),
     })
       .then(() =>
         alert(
@@ -114,7 +114,7 @@ export default function Contact() {
               htmlFor="message"
               className="leading-7 text-sm text-gray-400"
             >
-              Message
+              Message & Phone Number
             </label>
             <textarea
               id="message"

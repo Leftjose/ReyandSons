@@ -1,6 +1,6 @@
 // src/components/About.js
 import React from "react";
-import background from "./homelight.jpg"; 
+import background from "./nasa.jpg"; 
 
 export default function About() {
   return (
@@ -9,10 +9,23 @@ export default function About() {
         backgroundImage: `url(${background})`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
-        tintColor: "rgba(0,0,0,0.9)",
+       
+
       }}
       id="about"
     >
+      
+
+
+
+
+
+
+
+
+
+
+
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-3/4 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-6xl text-6xl mb-4 font-medium text-white">
