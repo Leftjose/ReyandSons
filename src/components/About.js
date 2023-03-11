@@ -27,11 +27,12 @@ export default function About() {
 
 
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
-        <div className="lg:flex-grow md:w-3/4 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
-          <h1 className="title-font sm:text-6xl text-6xl mb-4 font-medium text-white">
+        <div className="lg:flex-grow md:w-4/4 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
+          <h1 className="title-font sm:text-6xl text-6xl mb-40 font-medium text-white">
             Rey & Sons Electric
             <br className="hidden lg:inline-block" />
           </h1>
+          <h2 className="mb-8 leading-relaxed text-white text-4xl font-medium">About Our Company</h2>
           <p className="mb-8 leading-relaxed text-white">
             Greetings, I am currently looking for an Internship or Entry Level
             Front-End Web Developer role. I completed a Full Stack Web Developer
@@ -55,13 +56,13 @@ export default function About() {
               href="#contact"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
-              Contact Us
+              GET IN TOUCH
             </a>
             <a
-              href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+              href="#skills"
+              className="ml-4 inline-flex text-gray-400 bg-blue-900 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
             >
-              Past Work Gallery
+              SERVICES
             </a>
           </div>
         </div>
