@@ -1,6 +1,6 @@
 // src/components/Navbar.js
 
-import { ArrowRightIcon } from "@heroicons/react/solid";
+import { ChatAlt2Icon } from "@heroicons/react/solid";
 import React from "react";
 
 export default function Navbar() {
@@ -31,7 +31,7 @@ export default function Navbar() {
           className="inline-flex items-center bg-white-00 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0"
         >
           Contact Us
-          <ArrowRightIcon className="w-4 h-4 ml-1" />
+          <ChatAlt2Icon className="w-4 h-4 ml-1" />
         </a>
       </div>
     </header>
