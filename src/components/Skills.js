@@ -15,8 +15,12 @@ export default function Skills() {
               Electrical Services
             </h1>
             <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-              These are some of the skills that I have worked with during the bootcamp and looking to work 
-              with more now with new personal projects.
+              Fully licensed electricians can help with any electrical repairs
+              or installations. No job is too big or too small for Rey and Sons
+              We can assist in any electrical needs your home or business might
+              need. We do New Buildings, Remodels, Residential and Commercial.
+              We install Tesla charging stations, repair and install electrical
+              panels, LED outdoor installation and more!
             </p>
           </div>
           <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

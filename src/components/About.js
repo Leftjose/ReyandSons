@@ -9,46 +9,28 @@ export default function About() {
         backgroundImage: `url(${background})`,
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
-       
-
       }}
       id="about"
     >
-      
-
-
-
-
-
-
-
-
-
-
-
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-4/4 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-6xl text-6xl mb-40 font-medium text-white">
             Rey & Sons Electric
             <br className="hidden lg:inline-block" />
           </h1>
-          <h2 className="mb-8 leading-relaxed text-white text-4xl font-medium">About Our Company</h2>
+          <h2 className="mb-8 leading-relaxed text-white text-4xl font-medium">
+            About Our Company
+          </h2>
           <p className="mb-8 leading-relaxed text-white">
-            Greetings, I am currently looking for an Internship or Entry Level
-            Front-End Web Developer role. I completed a Full Stack Web Developer
-            Bootcamp at UTSA in January 2022. You are welcome to contact me if
-            you have any further questions. Greetings, I am currently looking
-            for an Internship or Entry Level Front-End Web Developer role. I
-            completed a Full Stack Web Developer Bootcamp at UTSA in January
-            2022. You are welcome to contact me if you have any further
-            questions.Greetings, I am currently looking for an Internship or
-            Entry Level Front-End Web Developer role. I completed a Full Stack
-            Web Developer Bootcamp at UTSA in January 2022. You are welcome to
-            contact me if you have any further questions.Greetings, I am
-            currently looking for an Internship or Entry Level Front-End Web
-            Developer role. I completed a Full Stack Web Developer Bootcamp at
-            UTSA in January 2022. You are welcome to contact me if you have any
-            further questions. <br></br>
+            Rey and Sons LLC was born from one father's excellent work ethic and
+            desire to build a legacy. Rey has been an electrician for over 20
+            years; his three sons have shadowed his work since they were
+            children. After graduating High School, the sons took a leap of
+            faith and began working on building a company. Rey's years of
+            experience, high client satisfaction and professional relationships
+            gave the company a seal of trustworthiness. Since 2012 Rey and Sons
+            have been subcontracted by major Central Texas companies.
+            <br></br>
             Thank You
           </p>
           <div className="flex justify-center">
