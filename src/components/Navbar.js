@@ -5,19 +5,17 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <header className="bg-gray-700 md:sticky top-0 z-10">
-      <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+    <header className="bg-gray-700 md:sticky top-0 z-10 ">
+      <div className="container mx-auto flex flex-wrap p-1 flex-col md:flex-row items-center">
         <a className="title-font font-medium text-white mb-4 md:mb-0">
-          <a href="#about" className="ml-3 text-xl">
-            Rey & Sons LLC.
+          <a href="#about" className="inline-flex items-center ml-3 text-xl">
+            <img src="/rrricon.png" alt="iconpng" className="w-25 h-20 " /> Rey
+            & Sons LLC.
           </a>
         </a>
         <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-white-700	flex flex-wrap items-center text-base justify-center">
-          
-          
-          
           <a href="#projects" className="text-white-700 mr-5 hover:text-white">
-          Past Work
+            Past Work
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
             Services
