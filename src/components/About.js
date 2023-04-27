@@ -1,6 +1,6 @@
 // src/components/About.js
 import React from "react";
-import background from "./nasa.jpg"; 
+import background from "./Electric.jpg"; 
 
 export default function About() {
   return (

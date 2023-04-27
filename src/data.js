@@ -3,33 +3,99 @@ export const projects = [
     title: "Parece Que Va Llover",
     subtitle: "Weather App",
     description:
-      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
-    image: "./pareceQuePIC.png",
-    link: "https://github.com/Leftjose/bug-free-octo-fiesta",
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./evcharger.jpg",
   },
   {
     title: "PrimeTime",
     subtitle: "Yelp API / Google Maps API",
     description:
-      "This application allows the user to look for reaturants near them using google maps built into the app with Google maps API.",
-    image: "./primetime.png",
-    link: "https://fons3517.github.io/Project1-PrimeTime/",
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./evcharger4.jpg",
   },
   {
     title: "Password Generator",
     subtitle: "Password App",
     description:
-      "This Random password generator allows the user to create a password with a variety of characters and the user will also be able to copy the password to clipboard.",
-    image: "./passwordgen.png",
-    link: "https://leftjose.github.io/passwordGenerator02-25/",
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./evcharger3.jpg",
   },
   {
     title: "Error 404",
     subtitle: "Responsive 404",
     description:
-      "This 404 page is responsive with a floating ghost svg image. This is a tutorial from youtube with my own changes.",
-    image: "404Error.png",
-    link: "https://leftjose.github.io/404Responsive/",
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./evcharger5.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./homelight0.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./homelight01.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./kitchenremodel.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./light1.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./light2.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./light0.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./panel.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./panel4.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./panel0.jpg",
+  },
+  {
+    title: "Error 404",
+    subtitle: "Responsive 404",
+    description:
+      "The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.The user is able to search for there city and weather information will be displayed. Technologies used: JavaScript, HTML, CSS, Bootstrap, Api's. Visit: https://openweathermap.org/ for an API key.",
+    image: "./outdoorlight01.jpg",
   },
 ];
 
