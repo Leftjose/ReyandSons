@@ -122,8 +122,8 @@ export const skills = [
   "Residential EV Chargers",
   "Electrical Wiring",
   "Electrical Outlets",
-  "Smart Light Swith Upgrades",
+  "Smart Light Switch Upgrades",
   "Ceiling Fan Installations",
   "Home Outdoor Lighting ",
-  "Smart Home Dooor Bells",
+  "Smart Home Door Bells",
 ];
