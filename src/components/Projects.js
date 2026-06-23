@@ -21,10 +21,10 @@ export default function Projects() {
          <div className="flex flex-wrap -m-4">
            {projects.map((project) => (
              <a key={project.image} className="sm:w-1/2 w-100 p-4">
-               <div className="flex relative">
+               <div className="flex relative ">
                  <img
                    alt="gallery"
-                   className="absolute inset-0 w-full h-full object-cover object-center"
+                   className="absolute inset-0 w-full h-full object-cover object-center rounded-2xl shadow-lg"
                    src={project.image}
                  />
                  {/* deleted hover:opacity-100    from the end of the next line and class */}
