@@ -132,22 +132,23 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "./london.svg",
-    name: "",
+      "'' Highly recommend Rey and Sons Electric! They were incredibly professional from start to finish. It’s rare to find a team with such a great work ethic these days. I’ll definitely be using them again for future projects. ''",
+    image: "./chris.png",
+    name: "- Israel",
     company: "",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Pending",
-    company: "Dooble.io",
+      "'' Can't say enough good things about this company. In terms of quality, they are top-notch and the pricing is always fair and honest. Highly recommend for any electrical work you may need! Positive, Responsiveness, Punctuality, Quality, Professionalism, Value ''",
+    image: "./joel.png",
+    name: "- Joel",
+    company: "",
   },
 ];
 
 export const skills = [
   "Residential Electrical Services",
+  "Commercial Electrical Services",
   "Main Panel Upgrades",
   "Residential EV Chargers",
   "Electrical Wiring",
